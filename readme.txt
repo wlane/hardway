@@ -1,1 +1,1 @@
-exercises in the book "learn python the hard way"
+exercises in the book "learn python the hard way third edition"
